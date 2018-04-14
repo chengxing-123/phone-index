@@ -1,0 +1,128 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-09 14:55:19
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-03-10 10:32:49
+*/
+body{
+	background: black;
+}
+.box{
+	width: 320px;
+	height: 620px;
+	/* 568 */
+	background: -webkit-linear-gradient(top,#f6f6f6,#f7f7f7);
+    background: -moz-linear-gradient(top,#f6f6f6,#f7f7f7);
+    background: -ms-linear-gradient(top,#f6f6f6,#f7f7f7);
+    background: -o-linear-gradient(top,#f6f6f6,#f7f7f7);
+    background: linear-gradient(top,#f6f6f6,#f7f7f7);
+    margin: 0 auto;
+    border-radius: 28px;
+    box-shadow: 0 0 5px 4px pink   ;
+    position: relative;
+
+
+}
+.top{
+	width: 100%;
+	height:57px;
+	background: #f8f7f8;
+	border-top-left-radius: 28px;
+	border-top-right-radius: 28px;
+	overflow: hidden;
+
+}
+.center{
+	width: 290px;
+	height: 460px;
+	border: 2px solid #000;
+	margin: 0 auto;
+	background: pink;
+	/* 312 445 */
+}
+.bottom{
+	width:320px; 
+	height: 62px;
+	background: #f0f0f0;
+	border-bottom-left-radius: 28px;
+	border-bottom-right-radius: 28px;
+     
+}
+.rea{
+	width: 136px;
+	height: 12px;
+	background: #f7f7f7;
+	margin: 0 auto;
+	margin-top: 29px;
+	border-radius: 4px;
+}
+.top1{
+	width: 12px;
+	height: 12px;
+	background: #000;
+	border-radius: 50%;
+	float: left;
+}
+.top2{
+	width: 56px;
+	height:12px;
+	background: #000;
+	float: left;
+	border-radius: 15px;
+	margin-left: 28px;
+}
+.top3{
+	width:14px;
+	height: 12px;
+	background: #000;
+	float: right;
+	border-radius:10px;
+  
+}
+.bottom1{ 
+	width:201px; 
+	height: 16px;
+	 background: #f0f0f0;
+	 margin: 0 auto;
+	 margin-top: 23px;
+
+}
+.box1{  
+	width:6px; 
+	height:96px; 
+	background: #f19ec2;
+	position: absolute;
+	top: 110px;
+	left: 320px;
+	border-radius: 20px;
+	
+
+}
+.box2{
+	width:6px; 
+	height:49px; 
+	background: pink;
+	border-radius: 20px;
+	
+
+}
+.box3{
+	width:6px; 
+	height:24px; 
+	background: pink;
+	margin-top: 24px;
+	border-radius: 20px;
+
+}
+/* .box2-1{ 
+	width: 4px;
+	height: 22px;
+	background: red;
+
+}
+.box2-2{ 
+	width: 4px;
+	height: 22px;
+	background: red;
+	margin-top: 18px;
+ } 
