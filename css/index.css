@@ -1,9 +1,18 @@
 /*
 * @Author: Administrator
 * @Date:   2018-03-09 14:55:19
-* @Last Modified by:   Administrator
-* @Last Modified time: 2018-03-10 10:32:49
+* @Last Modified by:   djh
+* @Last Modified time: 2018-04-14 12:54:31
 */
+
+*{
+	padding: 0;
+     margin: 0;
+     list-style: none;
+}
+ a{
+ 	text-decoration: none;
+ }
 body{
 	background: black;
 }
@@ -125,4 +134,11 @@ body{
 	height: 22px;
 	background: red;
 	margin-top: 18px;
- } 
+ }
+
+ */
+.fanmian{
+	float: right;
+	margin-top: 18px;
+	
+}
